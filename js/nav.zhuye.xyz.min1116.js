@@ -3219,31 +3219,31 @@
 });
 var searchData = {
   "thisSearch": "https://www.baidu.com/s?wd=",
-  "thisSearchIcon": "https://blz.nosdn.127.net/sre/images/nav/sou1.png",
+  "thisSearchIcon": "https://cdn.jsdelivr.net/gh/bucdn/nav@latest/images/nav/sou1.png",
   "data": [{
     name: "百度",
     url: "https://www.baidu.com/s?wd=",
-    img: "https://blz.nosdn.127.net/sre/images/nav/sou1.png"
+    img: "https://cdn.jsdelivr.net/gh/bucdn/nav@latest/images/nav/sou1.png"
   }, {
     name: "Google",
     url: "https://www.google.com/search?q=",
-    img: "https://blz.nosdn.127.net/sre/images/nav/sou2.png"
+    img: "https://cdn.jsdelivr.net/gh/bucdn/nav@latest/images/nav/sou2.png"
   }, {
     name: "Bing搜索",
     url: "https://cn.bing.com/search?q=",
-    img: "https://blz.nosdn.127.net/sre/images/nav/sou3.png"
+    img: "https://cdn.jsdelivr.net/gh/bucdn/nav@latest/images/nav/sou3.png"
   }, {
     name: "360搜索",
     url: "https://www.so.com/s?q=",
-    img: "https://blz.nosdn.127.net/sre/images/nav/sou4.png"
+    img: "https://cdn.jsdelivr.net/gh/bucdn/nav@latest/images/nav/sou4.png"
   }, {
     name: "搜狗搜索",
     url: "https://www.sogou.com/web?query=",
-    img: "https://blz.nosdn.127.net/sre/images/nav/sou5.png"
+    img: "https://cdn.jsdelivr.net/gh/bucdn/nav@latest/images/nav/sou5.png"
   }, {
     name: "多吉搜索",
     url: "https://www.dogedoge.com/results?q=",
-    img: "https://blz.nosdn.127.net/sre/images/nav/sou6.png"
+    img: "https://cdn.jsdelivr.net/gh/bucdn/nav@latest/images/nav/sou6.png"
   }]
 };
 var localSearchData = localStorage.getItem("searchData");

@@ -166,7 +166,7 @@ header {
     display: block;
     padding-top: 40px;
     padding-bottom: 40px;
-    background: #2e7bcf url(https://cdn.jsdelivr.net/gh/bearduncle520/nav/images/kong.png？https://blz.nosdn.127.net/sre/images/header-bg.jpg) 0 0 repeat-x;
+    background: #2e7bcf url(https://cdn.jsdelivr.net/gh/bucdn/nav@latest/images/kong.png？https://blz.nosdn.127.net/sre/images/header-bg.jpg) 0 0 repeat-x;
     border-bottom: solid 1px #275da1
 }
 header h1 {
@@ -192,7 +192,7 @@ header h2 {
     font-family: STXinwei, Helvetica, Arial, serif
 }
 .header {
-    background: #fff url(https://cdn.jsdelivr.net/gh/bearduncle520/nav/images/kong.png？https://blz.nosdn.127.net/sre/images/header-bg.jpg) 0 0 repeat-x;
+    background: #fff url(https://cdn.jsdelivr.net/gh/bucdn/nav@latest/images/kong.png？https://blz.nosdn.127.net/sre/images/header-bg.jpg) 0 0 repeat-x;
     border-bottom: solid 1px #f1f1f1;
     position: fixed;
     top: 0;
@@ -276,7 +276,7 @@ aside#sidebar a.button {
     height: 38px;
     padding-top: 16px;
     padding-left: 48px;
-    background: transparent url(https://cdn.jsdelivr.net/gh/bearduncle520/nav/images/button.png?https://blz.nosdn.127.net/sre/images/button.png) 0 0 no-repeat
+    background: transparent url(https://cdn.jsdelivr.net/gh/bucdn/nav@latest/images/button.png?https://blz.nosdn.127.net/sre/images/button.png) 0 0 no-repeat
 }
 .clearfix:after {
     display: block;
@@ -407,7 +407,7 @@ aside#sidebar a.button {
     background-position: center
 }
 .nav-item .nav-img-default {
-    background-image: url(https://cdn.jsdelivr.net/gh/bearduncle520/nav/images/icon-list.png?https://blz.nosdn.127.net/sre/images/icon-list.png)
+    background-image: url(https://cdn.jsdelivr.net/gh/bucdn/nav@latest/images/icon-list.png?https://blz.nosdn.127.net/sre/images/icon-list.png)
 }
 .nav-item .nav-name {
     font-size: 15px;
